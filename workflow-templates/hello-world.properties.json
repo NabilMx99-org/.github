@@ -1,0 +1,7 @@
+{
+    "name": "Hello World",
+    "description": "A simple workflow that prints a Hello World message.",
+    "creator": "NabilMx99",
+    "iconName": "octicon workflow",
+    "categories": ["Automation"]
+}
